@@ -46,7 +46,7 @@ This is a Streamlit web application that predicts the Fire Weather Index (FWI) u
 
 ## Live Demo
 
-Check out the live version of the app [here](https://9wqhjr6h4aamimyg2kgdup.streamlit.app/).
+Check out the live version of the app [here](https://forestfire-prediction.streamlit.app/).
 
 ## Screenshots
 
